@@ -8,6 +8,13 @@
       "fb.com",
       "fb.me"
     ]
+  },{
+    "id": "facebook-cdn",
+    "name": "Facebook - Photos and Videos",
+    "website": "https://www.facebook.com",
+    "domains": [
+      "fbcdn.net",
+    ]
   },
   {
     "id": "whatsapp",
